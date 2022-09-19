@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Victor Samuel
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on any front-end project
